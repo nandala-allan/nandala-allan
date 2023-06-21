@@ -48,6 +48,7 @@
 <a href="https://allan-nandala.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://allan-nandala.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/allan-nandala-47a51ab2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-allan-nandala-47a51ab2-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:andala63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andala63@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/allan-nandala-47a51ab2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [Allan](https://github.com/nandala-allan)
