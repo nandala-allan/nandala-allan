@@ -50,4 +50,4 @@
 <a href="mailto:andala63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andala63@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/nandala-allan)
+⭐️ From [Allan](https://github.com/nandala-allan)
